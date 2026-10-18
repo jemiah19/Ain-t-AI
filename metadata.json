@@ -1,0 +1,6 @@
+{
+  "name": "Ain't AI - Personal Assistant",
+  "description": "A modern personal AI assistant with chat, voice, memory, vision, search, automation, and image studio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
